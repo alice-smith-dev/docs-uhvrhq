@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-c450vw.batmantoto5tre.cyou/sitemap.xml
